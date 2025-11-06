@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(149, 10, 10);
+}
+
+.nav {
+    width: auto;
+    height: auto;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 0px;
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap ;
+}
+
+h1 {
+    text-align: center;
+    color:white
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
